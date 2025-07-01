@@ -1,5 +1,8 @@
 # Fireart test task
 
+## Prerequisisties
+Make sure you have installed NodeJS and Sails.js cli globally
+```npm install sails -g```
 ## Steps to launch
 
 1. Install dependencies
